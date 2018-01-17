@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mcoavoux/mcoavoux.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Maximin Coavoux. 2017. Discontinuous Constituency Parsing of Morphologically Rich Languages. PhD thesis. [[pdf soon]]() [[bib]](phd.bib)
+* Maximin Coavoux, Benoît Crabbé. 2017. Multilingual Lexicalized Constituency Parsing with Word-Level Auxiliary Tasks. EACL 2017 (short).
+  [[pdf]](http://www.aclweb.org/anthology/E/E17/E17-2053.pdf) [[bib]](http://www.aclweb.org/anthology/E/E17/E17-2053.bib) [[code]](https://github.com/mcoavoux/mtg/)
+* Maximin Coavoux, Benoît Crabbé. 2017. Incremental Discontinuous Phrase Structure Parsing with the GAP Transition. EACL 2017.
+  [[pdf]](http://www.aclweb.org/anthology/E/E17/E17-1118.pdf) [[bib]](http://www.aclweb.org/anthology/E/E17/E17-1118.bib) [[code]](https://github.com/mcoavoux/mtg/)
+* Maximin Coavoux, Benoît Crabbé. 2017. Représentation et analyse automatique des discontinuités syntaxiques dans les corpus arborés en constituants du français. TALN 2017 (long).
+  [[pdf]](https://hal.archives-ouvertes.fr/hal-01622631/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01622631v1/bibtex) [[code]](https://github.com/mcoavoux/french_disco_data)
+* Chloé Braud, Maximin Coavoux, Anders Søgaard. 2017. Cross-lingual RST Discourse Parsing. EACL 2017.
+    [[pdf]](http://aclweb.org/anthology/E17-1028.pdf) [[bib]](http://aclweb.org/anthology/E17-1028.bib)
+* Maximin Coavoux, Benoît Crabbé. 2016. Prédiction structurée pour l’analyse syntaxique en constituants par transitions : modèles denses et modèles creux. Traitement Automatique des Langues, ATALA, 2016, 57 (1).
+    [[pdf]](https://hal.archives-ouvertes.fr/hal-01365252/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01365252v1/bibtex)
+* Maximin Coavoux and Benoît Crabbé. 2016. Neural greedy constituent parsing with dynamic oracles. ACL 2016.
+    [[pdf]](http://www.aclweb.org/anthology/P/P16/P16-1017.pdf) [[bib]](http://www.aclweb.org/anthology/P/P16/P16-1017.bib) [[code]](https://github.com/mcoavoux/hyparse)
+* Maximin Coavoux, Benoît Crabbé. 2015. Comparaison d’architectures neuronales pour l’analyse syntaxique en constituants. TALN 2015.
+    [[pdf]](http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/biblio/taln-2015-long-025.pdf) [[bib]](https://hal.inria.fr/hal-01174613v1/bibtex)
 
-### Markdown
+## Tools and data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcoavoux/mcoavoux.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Discontinuous Constituency Treebanks for French](https://github.com/mcoavoux/french_disco_data)
+* [Wikipedia parsed to constituency trees](https://github.com/mcoavoux/wiki_parse)
+* [Mind the gap](https://github.com/mcoavoux/mtg): discontinuous constituency parser
