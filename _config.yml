@@ -1,9 +1,16 @@
 theme: jekyll-theme-minimal
 
-title: Maximin Coavoux
+title: "Maximin Coavoux"
 
 description: |
     Research associate, University of Edinburgh.
     
     
     mcoavoux[at]inf[dot]ed[dot]ac[dot]uk
+
+name: &name "Maximin Coavoux"
+
+author:
+    googlescholar    : "https://scholar.google.com/citations?user=boYvx48AAAAJ"
+    github           : "mcoavoux"
+    stackoverflow    : "http://stackoverflow.com/users/9730177/mcoav"
