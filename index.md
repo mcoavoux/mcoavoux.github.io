@@ -3,7 +3,7 @@
 
 2018:
 
-* Maximin Coavoux, Shashi Narayan, Shay B. Cohen. Privacy-preserving Neural Representation of Text. EMNLP 2018. [[pdf]](https://arxiv.org/pdf/1808.09408.pdf) [[bib]](emnlp2018.bib) [[code]](https://github.com/mcoavoux/pnet)
+* Maximin Coavoux, Shashi Narayan, Shay B. Cohen. Privacy-preserving Neural Representation of Text. EMNLP 2018. [[pdf]](http://aclweb.org/anthology/D18-1001.pdf) [[bib]](https://aclanthology.info/papers/D18-1001/d18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
 
 2017:
 
