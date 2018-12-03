@@ -1,3 +1,6 @@
+---
+title: Maximin Coavoux
+---
 
 ## Publications
 
