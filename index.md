@@ -4,6 +4,21 @@ title: Maximin Coavoux
 
 ## Publications
 
+
+
+Accepted:
+
+* Unlexicalized Transition-based Discontinuous Constituency Parsing.  
+  Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
+  to appear in TACL.  
+  [[pdf]](1544-Coavoux-finalversion.pdf) [[code]](https://github.com/mcoavoux/mtg_TACL)
+
+2019:
+
+* Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
+  Maximin Coavoux, Shay B. Cohen.  
+  NAACL 2019.  
+
 2018:
 
 * Privacy-preserving Neural Representation of Text.  
