@@ -11,7 +11,7 @@ Accepted:
 * Unlexicalized Transition-based Discontinuous Constituency Parsing.  
   Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
   to appear in TACL.  
-  [[pdf]](1544-Coavoux-finalversion.pdf) [[code]](https://github.com/mcoavoux/mtg_TACL)
+  [[pdf (preprint)]](https://arxiv.org/pdf/1902.08912.pdf) [[bib]]() [[code]](https://github.com/mcoavoux/mtg_TACL)
 
 2019:
 
