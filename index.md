@@ -24,7 +24,7 @@ Accepted:
 * Privacy-preserving Neural Representation of Text.  
   Maximin Coavoux, Shashi Narayan, Shay B. Cohen.  
   EMNLP 2018.  
-  [[pdf]](http://aclweb.org/anthology/D18-1001.pdf) [[bib]](https://aclanthology.info/papers/D18-1001/d18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
+  [[pdf]](http://aclweb.org/anthology/D18-1001) [[bib]](https://aclanthology.info/papers/D18-1001/d18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
 
 2017:
 
@@ -43,7 +43,7 @@ Accepted:
 * Cross-lingual RST Discourse Parsing.  
   Chloé Braud, Maximin Coavoux, Anders Søgaard.  
   EACL 2017 (long).  
-  [[pdf]](http://aclweb.org/anthology/E17-1028.pdf) [[bib]](http://aclweb.org/anthology/E17-1028.bib)
+  [[pdf]](http://www.aclweb.org/anthology/E17-1028) [[bib]](http://aclweb.org/anthology/E17-1028.bib)
 
 2016:
 
