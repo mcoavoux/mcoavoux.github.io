@@ -6,18 +6,18 @@ title: Maximin Coavoux
 
 
 
-Accepted:
-
-* Unlexicalized Transition-based Discontinuous Constituency Parsing.  
-  Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
-  to appear in TACL.  
-  [[pdf (preprint)]](https://arxiv.org/pdf/1902.08912.pdf) [[bib]]() [[code]](https://github.com/mcoavoux/mtg_TACL)
 
 2019:
 
 * Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
   Maximin Coavoux, Shay B. Cohen.  
   NAACL 2019.  
+  [[pdf (preprint)]](https://arxiv.org/pdf/1904.00615.pdf) [[bib]](naacl2019.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/)
+
+* Unlexicalized Transition-based Discontinuous Constituency Parsing.  
+  Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
+  to appear in TACL.  
+  [[pdf (preprint)]](https://arxiv.org/pdf/1902.08912.pdf) [[bib]](tacl.bib) [[code]](https://github.com/mcoavoux/mtg_TACL)
 
 2018:
 
