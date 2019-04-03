@@ -11,7 +11,7 @@ title: Maximin Coavoux
 
 * Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
   Maximin Coavoux, Shay B. Cohen.  
-  NAACL 2019.  
+  NAACL 2019 (long).  
   [[pdf (preprint)]](https://arxiv.org/pdf/1904.00615.pdf) [[bib]](naacl2019.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/)
 
 * Unlexicalized Transition-based Discontinuous Constituency Parsing.  
