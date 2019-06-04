@@ -12,7 +12,7 @@ title: Maximin Coavoux
 * Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
   Maximin Coavoux, Shay B. Cohen.  
   NAACL 2019 (long).  
-  [[pdf (preprint)]](https://arxiv.org/pdf/1904.00615.pdf) [[bib]](naacl2019.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/)
+  [[pdf]](https://www.aclweb.org/anthology/N19-1018) [[bib]](https://www.aclweb.org/anthology/papers/N/N19/N19-1018.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/) [[slides]](slides_naacl2019.pdf)
 
 * Unlexicalized Transition-based Discontinuous Constituency Parsing.  
   Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
@@ -23,7 +23,7 @@ title: Maximin Coavoux
 
 * Privacy-preserving Neural Representation of Text.  
   Maximin Coavoux, Shashi Narayan, Shay B. Cohen.  
-  EMNLP 2018.  
+  EMNLP 2018 (long).  
   [[pdf]](http://aclweb.org/anthology/D18-1001) [[bib]](https://aclanthology.info/papers/D18-1001/d18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
 
 2017:
