@@ -1,0 +1,179 @@
+---
+---
+@import "{{ site.theme }}";
+
+body { background-color: #fff;
+    padding: 50px;
+    font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #626262;
+    font-weight: 400;
+}
+
+
+.datasets summary, 
+.publications summary, 
+details{
+    display:inline;
+}
+
+
+.datasets summary,
+.publications summary {
+    color:#267CB9;
+    text-decoration:none;
+    font-size: 16px;
+}
+
+.datasets details[open] summary, 
+.publications details[open] summary, 
+details pre {
+    position:relative;
+    left:-1rem;
+
+}
+
+.datasets details pre
+.publications details pre {
+    width:650px;
+}
+
+.datasets details,
+.publications details {
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.datasets details:hover summary, 
+.publications details:hover summary, 
+details:focus summary, 
+details[open] summary {
+    color:#069;
+    font-weight:bold;
+}
+
+.datasets summary::-webkit-details-marker,
+.publications summary::-webkit-details-marker {
+    display: none
+}
+
+.datasets blockquote, 
+.publications blockquote {
+    margin: 1rem 0 1.5rem 0;
+    padding: 0 0 0 1.5rem;
+    border-left: 1px solid #cacaca;
+    font-style: normal;
+    text-align: justify;
+    color: #8a8a8a;
+}
+
+
+ul.datasets  {
+    list-style-image: url('./../images/file-table.svg');
+}
+ul.publications  {
+    list-style-image: url('./../images/file-text.svg');
+}
+.wrapper { width: 1000px;
+    margin: 0 auto;
+}
+header { width: 250px;
+    float: left;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased;
+    margin-right:50px;
+    font-size: 14px;
+}
+footer { width: 250px;
+    float: left;
+    position:relative;
+    clear:both;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+section { width: 700px;
+    float: left;
+    padding-bottom: 50px;
+}
+header h1 {text-align: center;
+    margin-top: 20px;
+}
+section h2 {font-size:24px;
+    clear:both;
+}
+section h3 {font-size:18px;
+    color:#555555;
+}
+header ul.links {
+    list-style: none;
+    height: auto;
+    padding: 0;
+    margin:0;
+    text-align: center;
+    position:static;
+    background: transparent;
+    border-radius: 0;
+    border: 0;
+    width:auto;
+    right:0;
+    left:0;
+}
+header li { width:auto;
+    display:inline-block;
+    border:0;
+    margin:0;
+    padding:10px;
+    float:none;
+}
+header ul li a {width:auto;
+}
+header ul.links a img { height:35px;
+    width:auto;
+}
+header ul.links a img:active, header ul.links a img:hover, { transform: scale(1.2);
+}
+header ul a:active { background-color: transparent;
+}
+strong { color: #222;
+    font-weight: 700;
+}
+header ul li + li + li { border-right: none;
+    width:auto;
+}
+header ul a strong { font-size: 14px;
+    display: block;
+    color: #222;
+}
+
+@media print, screen and (max-width: 1100px) {
+    div.wrapper { width: auto;
+        margin: 0;
+    }
+    header, section, footer { float: none;
+        position: static;
+        width: auto;
+        margin:0;
+        padding:0;
+    }
+    header { padding-right: 0;
+    }
+    section { border: 1px solid #e5e5e5;
+        border-width: 1px 0;
+        padding: 20px 0;
+        margin: 30px 0;
+    }
+    header ul, header ul.links {margin-top:5px;
+        position: static;
+        right:0;
+        left:0;
+    }}
+    @media print, screen and (max-width: 960px) {
+        body {padding: 1rem;
+        }
+        header {padding-right: 0;
+        }
+        header ul, header ul.links  { position: static;
+            right:0;
+            left:0;
+        } 
+        .publications blockquote { display: none;
+        }
+    }
