@@ -2,12 +2,14 @@ theme: jekyll-theme-minimal
 
 title: "Maximin Coavoux"
 
+markdown: kramdown
+
 description: |
-    Research scientist, Naver Labs Europe.
+    CNRS Researcher (Chargé de recherche), Laboratoire d'Informatique de Grenoble (LIG)
     
 name: &name "Maximin Coavoux"
 
-author:
-    googlescholar    : "https://scholar.google.com/citations?user=boYvx48AAAAJ"
-    github           : "mcoavoux"
-    stackoverflow    : "http://stackoverflow.com/users/9730177/mcoav"
+extralinks: |
+    <li><a href="https://scholar.google.com/citations?user=boYvx48AAAAJ&hl=fr"><img src="img/google-scholar.png" alt="google profile"/></a></li>
+    <li><a href="https://github.com/mcoavoux/"><img src="img/GitHub-Mark-64px.png" alt="Github"/></a></li>
+    <li><a href="https://gitlab.com/mcoavoux/"><img src="img/gitlab-icon-rgb.png" alt="Gitlab"/></a></li>
