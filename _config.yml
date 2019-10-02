@@ -4,10 +4,9 @@ title: "Maximin Coavoux"
 
 markdown: kramdown
 
-description: |
-    CNRS Researcher (Chargé de recherche), Laboratoire d'Informatique de Grenoble (LIG)
-    
-name: &name "Maximin Coavoux"
+sidetext: |
+    <p>CNRS Researcher (Chargé de recherche)</p>
+    <p>Laboratoire d'Informatique de Grenoble (LIG), Université Grenoble-Alpes</p> 
 
 extralinks: |
     <li><a href="https://scholar.google.com/citations?user=boYvx48AAAAJ&hl=fr"><img src="img/google-scholar.png" alt="google profile"/></a></li>
