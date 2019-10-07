@@ -68,7 +68,7 @@ Thesis:
 * Discontinuous Constituency Parsing of Morphologically Rich Languages.  
   Maximin Coavoux.
   PhD thesis. 2017
-  [[pdf soon]]() [[bib]](phd.bib)
+  [[pdf]](https://hal.archives-ouvertes.fr/tel-02302563/document) [[bib]](phd.bib)
 
 
 ## Tools and data
