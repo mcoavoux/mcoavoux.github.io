@@ -9,13 +9,10 @@ Specifically, I worked in the [Laboratoire de Linguistique Formelle (LLF)](http:
 
 My research focuses on Natural Language Processing. Some of my current research interests: syntactic parsing, structured prediction, data-efficient learning, multitask learning, opinion summarization.
 
-[**Publications**](#Publications)  
-[**Tools and data**](#Tools-and-data)  
+[**Publications**](#publications)  
+[**Tools and data**](#tools-and-data)  
 
 ## Publications
-
-
-
 
 2019:
 
