@@ -26,19 +26,19 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
   Maximin Coavoux, Shay B. Cohen.  
   NAACL 2019 (long).  
-  [[pdf]](https://www.aclweb.org/anthology/N19-1018) [[bib]](https://www.aclweb.org/anthology/papers/N/N19/N19-1018.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/) [[slides]](slides_naacl2019.pdf)
+  [[pdf]](https://www.aclweb.org/anthology/N19-1018.pdf) [[bib]](https://www.aclweb.org/anthology/N19-1018.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/) [[slides]](slides_naacl2019.pdf)
 
 * Unlexicalized Transition-based Discontinuous Constituency Parsing.  
   Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
   TACL 2019.  
-  [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00255) [[html]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00255) [[bib]](tacl.bib) [[code]](https://github.com/mcoavoux/mtg_TACL)
+  [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00255) [[html]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00255) [[bib]](https://www.aclweb.org/anthology/Q19-1005.bib) [[code]](https://github.com/mcoavoux/mtg_TACL)
 
 2018:
 
 * Privacy-preserving Neural Representation of Text.  
   Maximin Coavoux, Shashi Narayan, Shay B. Cohen.  
   EMNLP 2018 (long).  
-  [[pdf]](http://aclweb.org/anthology/D18-1001) [[bib]](https://aclanthology.info/papers/D18-1001/d18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
+  [[pdf]](http://aclweb.org/anthology/D18-1001) [[bib]](https://www.aclweb.org/anthology/D18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
 
 2017:
 
@@ -68,7 +68,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * Neural greedy constituent parsing with dynamic oracles.  
   Maximin Coavoux, Benoît Crabbé.  
   ACL 2016 (long).  
-  [[pdf]](http://www.aclweb.org/anthology/P/P16/P16-1017.pdf) [[bib]](http://www.aclweb.org/anthology/P/P16/P16-1017.bib) [[code]](https://github.com/mcoavoux/hyparse) [[slides]](slides_acl2016.pdf)
+  [[pdf]](https://www.aclweb.org/anthology/P16-1017.pdf) [[bib]](https://www.aclweb.org/anthology/P16-1017.bib) [[code]](https://github.com/mcoavoux/hyparse) [[slides]](slides_acl2016.pdf)
 
 2015:
 
