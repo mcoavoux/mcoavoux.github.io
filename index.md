@@ -16,6 +16,14 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 ## Publications
 
+
+2020:
+
+* FlauBERT: Unsupervised Language Model Pre-training for French.  
+  Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoît Crabbé, Laurent Besacier, Didier Schwab.  
+  LREC 2020.  
+  [pdf] [bib] [pre-print](https://arxiv.org/abs/1912.05372) [[code for FlauBERT]](https://github.com/getalp/Flaubert/) [[code for constituency parsing experiments]](https://github.com/mcoavoux/self-attentive-parser)
+
 2019:
 
 * Unsupervised Aspect-Based Multi-Document Abstractive Summarization.  
