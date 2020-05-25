@@ -58,7 +58,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
   Maximin Coavoux, Benoît Crabbé.  
   EACL 2017 (long). Outstanding paper award.  
   [[pdf]](http://www.aclweb.org/anthology/E/E17/E17-1118.pdf) [[bib]](http://www.aclweb.org/anthology/E/E17/E17-1118.bib) [[code]](https://github.com/mcoavoux/mtg/) [[slides]](slides_eacl2017.pdf)
-* Représentation et analyse automatique des discontinuités syntaxiques dans les corpus arborés en constituants du français.  
+* (In French) Représentation et analyse automatique des discontinuités syntaxiques dans les corpus arborés en constituants du français.  
   Maximin Coavoux, Benoît Crabbé.  
   TALN 2017 (long).  
   [[pdf]](https://hal.archives-ouvertes.fr/hal-01622631/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01622631v1/bibtex) [[code]](https://github.com/mcoavoux/french_disco_data) [[slides]](slides_taln2017.pdf)
@@ -69,7 +69,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2016:
 
-* Prédiction structurée pour l’analyse syntaxique en constituants par transitions : modèles denses et modèles creux.  
+* (In French) Prédiction structurée pour l’analyse syntaxique en constituants par transitions : modèles denses et modèles creux.  
   Maximin Coavoux, Benoît Crabbé.  
   Traitement Automatique des Langues, ATALA, 2016, 57 (1).  
   [[pdf]](https://hal.archives-ouvertes.fr/hal-01365252/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01365252v1/bibtex)
@@ -80,7 +80,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2015:
 
-* Comparaison d’architectures neuronales pour l’analyse syntaxique en constituants.  
+* (In French) Comparaison d’architectures neuronales pour l’analyse syntaxique en constituants.  
   Maximin Coavoux, Benoît Crabbé.  
   TALN 2015 (long).  Best paper award.  
   [[pdf]](http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/biblio/taln-2015-long-025.pdf) [[bib]](https://hal.inria.fr/hal-01174613v1/bibtex)
