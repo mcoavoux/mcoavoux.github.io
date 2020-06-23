@@ -19,6 +19,16 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2020:
 
+* (In French) FlauBERT : des modèles de langue contextualisés pré-entraînés pour le français.  
+  Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoît Crabbé, Laurent Besacier, Didier Schwab.  
+  TALN 2020 (short).  
+  [[pdf]](https://hal.archives-ouvertes.fr/hal-02784776v2/document) [[bib]](http://talnarchives.atala.org/TALN/TALN-2020/66.bib)
+
+* (In French) Qu’apporte BERT à l’analyse syntaxique en constituants discontinus ? Une suite de tests pour évaluer les prédictions de structures syntaxiques discontinues en anglais.  
+  Maximin Coavoux  
+  TALN 2020 (short).  
+  [[pdf]](https://hal.archives-ouvertes.fr/hal-02784767v2/document) [[bib]](http://talnarchives.atala.org/TALN/TALN-2020/141.bib)
+
 * FlauBERT: Unsupervised Language Model Pre-training for French.  
   Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoît Crabbé, Laurent Besacier, Didier Schwab.  
   LREC 2020.  
