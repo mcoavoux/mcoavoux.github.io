@@ -21,7 +21,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * Self-Supervised and Controlled Multi-Document Opinion Summarization.  
   Hady Elsahar, Maximin Coavoux, Matthias Gallé, Jos Rozen.  
   EACL 2021 (long).  
-  [[preprint]](https://arxiv.org/abs/2004.14754)
+  [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.141.pdf) [[bib]](https://www.aclweb.org/anthology/2021.eacl-main.141.bib) [[preprint]](https://arxiv.org/abs/2004.14754)
 
 
 2020:
