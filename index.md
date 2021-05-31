@@ -18,6 +18,16 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2021:
 
+* BERT-Proof Syntactic Structures: Investigating Errors in Discontinuous Constituency Parsing.  
+  Maximin Coavoux.  
+  Findings of ACL 2021.  
+  [[pdf soon]]()
+
+* (In French) Contribution d'informations syntaxiques aux capacités de généralisation compositionelle des modèles seq2seq convolutifs.  
+  Diana Nicoleta Popa, William N. Havard, Maximin Coavoux, Eric Gaussier and Laurent Besacier.  
+  TALN 2021 (short).  
+  [[pdf soon]]()
+
 * Self-Supervised and Controlled Multi-Document Opinion Summarization.  
   Hady Elsahar, Maximin Coavoux, Matthias Gallé, Jos Rozen.  
   EACL 2021 (long).  
