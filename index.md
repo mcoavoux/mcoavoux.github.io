@@ -7,7 +7,7 @@ Before that, I was a research scientist at [Naver Labs Europe ](https://europe.n
 I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université de Paris](https://u-paris.fr/).
 Specifically, I worked in the [Laboratoire de Linguistique Formelle (LLF)](http://www.llf.cnrs.fr/en), under the supervision of Benoît Crabbé and on the topic of natural language parsing.
 
-My research focuses on Natural Language Processing. Some of my current research interests: syntactic parsing, structured prediction, data-efficient learning, multitask learning, opinion summarization.
+My research focuses on Natural Language Processing. Some of my current research interests: syntactic/semantic parsing, structured prediction, data-efficient learning, multitask learning.
 
 Contact: `first.last@univ-grenoble-alpes.fr`
 
@@ -26,7 +26,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * (In French) Contribution d'informations syntaxiques aux capacités de généralisation compositionelle des modèles seq2seq convolutifs.  
   Diana Nicoleta Popa, William N. Havard, Maximin Coavoux, Eric Gaussier and Laurent Besacier.  
   TALN 2021 (short).  
-  [[pdf soon]]()
+  [[pdf]](http://talnarchives.atala.org/TALN/TALN-2021/28.pdf) [[bib]](http://talnarchives.atala.org/TALN/TALN-2021/28.bib)
 
 * Self-Supervised and Controlled Multi-Document Opinion Summarization.  
   Hady Elsahar, Maximin Coavoux, Matthias Gallé, Jos Rozen.  
