@@ -21,7 +21,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * BERT-Proof Syntactic Structures: Investigating Errors in Discontinuous Constituency Parsing.  
   Maximin Coavoux.  
   Findings of ACL 2021.  
-  [[pdf soon]]()
+  [[pdf]](https://aclanthology.org/2021.findings-acl.288.pdf) [[bib]](https://aclanthology.org/2021.findings-acl.288.bib) [[test suite]](https://aclanthology.org/attachments/2021.findings-acl.288.OptionalSupplementaryMaterial.zip) [[parser's code]](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021)
 
 * (In French) Contribution d'informations syntaxiques aux capacités de généralisation compositionelle des modèles seq2seq convolutifs.  
   Diana Nicoleta Popa, William N. Havard, Maximin Coavoux, Eric Gaussier and Laurent Besacier.  
@@ -121,6 +121,8 @@ Thesis:
 
 
 ## Tools and data
+
+* [Bert based discontinuous parser](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021): a discontinuous parser for English and German, based on BERT and released with pretrained models.
 
 * [Discontinuous Constituency Treebanks for French](https://github.com/mcoavoux/french_disco_data)
 * [Wikipedia parsed to constituency trees](https://github.com/mcoavoux/wiki_parse)
