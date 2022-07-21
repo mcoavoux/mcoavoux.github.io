@@ -16,6 +16,13 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 ## Publications
 
+2022:
+
+* End-to-End Dependency Parsing of Spoken French.  
+  Adrien Pupier, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian.  
+  Interspeech 2022.  
+  [[pdf]](https://hal.archives-ouvertes.fr/hal-03713551/document) [bib] [[Adrien's code]](https://gricad-gitlab.univ-grenoble-alpes.fr/pupiera/wav2tree_release)
+
 2021:
 
 * BERT-Proof Syntactic Structures: Investigating Errors in Discontinuous Constituency Parsing.  
