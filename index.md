@@ -16,7 +16,25 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 ## Publications
 
+2023:
+
+*  BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
+   Weixian Li, Yftah Ziser, Maximin Coavoux and Shay B. Cohen.  
+   EACL 2023.  
+   [pdf soon] [bib] [[old preprint version]](https://arxiv.org/abs/2102.02110)
+
 2022:
+
+* (In French) Apprentissage profond pour l’estimation du quotient ouvert à partir du signal électroglottographique.  
+  Minh-Châu Nguyên, Maximin Coavoux, Solange Rossato.  
+  LIFT 2022.  
+  [[pdf]](https://hal.science/hal-03846833v1/file/4777.pdf) [[bib]](https://hal.science/hal-03846833v1/bibtex)
+
+
+* (In French) Extraction de Phrases Préfabriquées des Interactions à partir d’un corpus arboré du français parlé : une étude exploratoire.  
+  Marie-Sophie Pausé, Agnès Tutin, Olivier Kraif, Maximin Coavoux.  
+  CMLF 2022.  
+  [[pdf]](https://www.shs-conferences.org/articles/shsconf/pdf/2022/08/shsconf_cmlf2022_10002.pdf) [[bib]](https://www.shs-conferences.org/component/makeref/?task=show&type=html&doi=10.1051/shsconf/202213810002)
 
 * End-to-End Dependency Parsing of Spoken French.  
   Adrien Pupier, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian.  
