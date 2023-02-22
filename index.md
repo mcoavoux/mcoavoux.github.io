@@ -18,10 +18,15 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2023:
 
+* On Detecting Policy-Related Political Ads: An Exploratory Analysis of Meta Ads in 2022 French Election.  
+   Vera Sosnovik, Romaissa Kessi, Maximin Coavoux, Oana Goga.  
+   TheWebConf2023.  
+   [[pdf](https://arxiv.org/pdf/2302.06917.pdf)] [bib]
+
 *  BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
    Weixian Li, Yftah Ziser, Maximin Coavoux and Shay B. Cohen.  
    EACL 2023.  
-   [pdf soon] [bib] [[old preprint version]](https://arxiv.org/abs/2102.02110)
+   [[pdf](https://arxiv.org/pdf/2302.09350)] [bib] [[old preprint version]](https://arxiv.org/abs/2102.02110)
 
 2022:
 
