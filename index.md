@@ -21,7 +21,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * Neural correlates of object-extracted relative clause processing across English and Chinese.  
   Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
   Neurobiology of Language.  2023.  
-  [[https://doi.org/10.1162/nol_a_00110]]
+  [[link](https://doi.org/10.1162/nol_a_00110)]
 
 * (In French) Analyse sémantique AMR pour le français par transfert translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
