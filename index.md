@@ -18,6 +18,16 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2023:
 
+* Neural correlates of object-extracted relative clause processing across English and Chinese.  
+  Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
+  Neurobiology of Language.  2023.  
+  [[https://doi.org/10.1162/nol_a_00110]]
+
+* (In French) Analyse sémantique AMR pour le français par transfert translingue.  
+  Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
+  TALN 2023.  
+  [[pdf](https://coria-taln-2023.sciencesconf.org/456133/document)] [bib]
+
 * On Detecting Policy-Related Political Ads: An Exploratory Analysis of Meta Ads in 2022 French Election.  
    Vera Sosnovik, Romaissa Kessi, Maximin Coavoux, Oana Goga.  
    TheWebConf2023.  
