@@ -21,22 +21,22 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 * Neural correlates of object-extracted relative clause processing across English and Chinese.  
   Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
   Neurobiology of Language.  2023.  
-  [[link](https://doi.org/10.1162/nol_a_00110)]
+  [[link]](https://doi.org/10.1162/nol_a_00110)
 
 * (In French) Analyse sémantique AMR pour le français par transfert translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
   TALN 2023.  
-  [[pdf](https://coria-taln-2023.sciencesconf.org/456133/document)] [bib]
+  [[pdf]](https://coria-taln-2023.sciencesconf.org/456133/document) [bib]
 
 * On Detecting Policy-Related Political Ads: An Exploratory Analysis of Meta Ads in 2022 French Election.  
    Vera Sosnovik, Romaissa Kessi, Maximin Coavoux, Oana Goga.  
    TheWebConf2023.  
-   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583875)] [[bib](acm_3543507.3583875.bib)] [[preprint](https://arxiv.org/abs/2302.06917)]
+   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583875) [[bib]](acm_3543507.3583875.bib) [[preprint]](https://arxiv.org/abs/2302.06917)
 
 *  BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
    Weixian Li, Yftah Ziser, Maximin Coavoux and Shay B. Cohen.  
    EACL 2023.  
-   [[pdf](https://aclanthology.org/2023.eacl-main.260.pdf)] [[bib](https://aclanthology.org/2023.eacl-main.260.bib)] [[preprint](https://arxiv.org/abs/2302.09350)] [[old preprint version]](https://arxiv.org/abs/2102.02110) 
+   [[pdf]](https://aclanthology.org/2023.eacl-main.260.pdf) [[bib]](https://aclanthology.org/2023.eacl-main.260.bib) [[preprint]](https://arxiv.org/abs/2302.09350) [[old preprint version]](https://arxiv.org/abs/2102.02110) 
 
 2022:
 
