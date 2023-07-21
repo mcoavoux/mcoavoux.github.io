@@ -7,12 +7,18 @@ Before that, I was a research scientist at [Naver Labs Europe ](https://europe.n
 I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université de Paris](https://u-paris.fr/).
 Specifically, I worked in the [Laboratoire de Linguistique Formelle (LLF)](http://www.llf.cnrs.fr/en), under the supervision of Benoît Crabbé and on the topic of natural language parsing.
 
-My research focuses on Natural Language Processing. Some of my current research interests: syntactic/semantic parsing, structured prediction, data-efficient learning, multitask learning.
+My research focuses on natural language and speech processing. Some of my current research interests: syntactic/semantic parsing, structured prediction, end-to-end speech parsing, multitask learning.
 
 Contact: `first.last@univ-grenoble-alpes.fr`
 
+[**PhD supervision**](#phd-supervision)  
 [**Publications**](#publications)  
 [**Tools and data**](#tools-and-data)  
+
+## PhD Supervision
+
+- Jeongwoo Kang: 2021-, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
+- Adrien Pupier: 2021-, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
 
 ## Publications
 
@@ -33,7 +39,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
    TheWebConf2023.  
    [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583875) [[bib]](acm_3543507.3583875.bib) [[preprint]](https://arxiv.org/abs/2302.06917)
 
-*  BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
+* BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
    Weixian Li, Yftah Ziser, Maximin Coavoux and Shay B. Cohen.  
    EACL 2023.  
    [[pdf]](https://aclanthology.org/2023.eacl-main.260.pdf) [[bib]](https://aclanthology.org/2023.eacl-main.260.bib) [[preprint]](https://arxiv.org/abs/2302.09350) [[old preprint version]](https://arxiv.org/abs/2102.02110) 
