@@ -3,8 +3,8 @@ title: Maximin Coavoux
 ---
 
 I am a CNRS researcher working in [Getalp](http://lig-getalp.imag.fr/en/home/) team (part of [Laboratoire d'Informatique de Grenoble](http://www.liglab.fr/)).
-Before that, I was a research scientist at [Naver Labs Europe ](https://europe.naverlabs.com/) (2019) and a research associate at the University of Edinburgh (2018) in [Shay Cohen's research group](http://cohort.inf.ed.ac.uk/).
-I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université de Paris](https://u-paris.fr/).
+Before that, I was a research scientist at [Naver Labs Europe ](https://europe.naverlabs.com/) (2019) and a research associate at the University of Edinburgh (2018) in [Shay Cohen's research group](https://bollin.inf.ed.ac.uk/).
+I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université Paris Cité](https://u-paris.fr/).
 Specifically, I worked in the [Laboratoire de Linguistique Formelle (LLF)](http://www.llf.cnrs.fr/en), under the supervision of Benoît Crabbé and on the topic of natural language parsing.
 
 My research focuses on natural language and speech processing. Some of my current research interests: syntactic/semantic parsing, structured prediction, end-to-end speech parsing, multitask learning.
