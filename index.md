@@ -24,6 +24,10 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 2023:
 
+* LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
+  Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
+  [[preprint]](https://arxiv.org/abs/2309.05472)
+
 * Neural correlates of object-extracted relative clause processing across English and Chinese.  
   Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
   Neurobiology of Language.  2023.  
