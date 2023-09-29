@@ -15,6 +15,13 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 [**Publications**](#publications)  
 [**Tools and data**](#tools-and-data)  
 
+**News** July 2023: I have been awarded an ANR grant to work on syntactic parsing of spoken French.
+
+Available positions:
+
+* [M2 internship on syntactic parsing of speech](internship_proposal.md)
+* PhD position (start: Fall 2024)
+
 ## PhD Supervision
 
 - Jeongwoo Kang: 2021-, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
