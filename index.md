@@ -43,7 +43,7 @@ Available positions:
 * (In French) Analyse sémantique AMR pour le français par transfert translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
   TALN 2023.  
-  [[pdf]](https://coria-taln-2023.sciencesconf.org/456133/document) [bib]
+  [[pdf]](https://aclanthology.org/2023.jeptalnrecital-short.6.pdf) [[bib]](https://aclanthology.org/2023.jeptalnrecital-short.6.bib) [[Jeongwoo's code]](https://github.com/Emvista/French-Amr-Parser)
 
 * On Detecting Policy-Related Political Ads: An Exploratory Analysis of Meta Ads in 2022 French Election.  
    Vera Sosnovik, Romaissa Kessi, Maximin Coavoux, Oana Goga.  
