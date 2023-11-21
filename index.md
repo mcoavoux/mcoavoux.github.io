@@ -31,6 +31,11 @@ Available positions:
 
 2023:
 
+* Pretrained Language Models v. Court Ruling Predictions: A Case Study on a Small Dataset of French Court of Appeal Rulings.  
+  Olivia Vaudaux, Caroline Bazzoli, Maximin Coavoux, Géraldine Vial, Étienne Vergès.  
+  NLLP 2023  
+  [[pdf]]
+
 * LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
   Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
   [[preprint]](https://arxiv.org/abs/2309.05472)
