@@ -1,30 +1,22 @@
-Starting date: February or March 2024 (flexible)
+​​​​​Starting date: April 2024 (flexible)
 
 Place of work: Laboratoire d'Informatique de Grenoble, CNRS, Grenoble, France
 
-Duration: 6 months
+Duration: 4 to 6 months
 
-Keywords: natural language processing, speech processing, dependency parsing, treebanks
+Contact: maximin.coavoux@univ-grenoble-alpes.fr
 
 Description:
 
 The SynPaX ANR project (Syntactic Parsing of Spontaneous speech with cross-modal
-transfer learning) aims at investigating modal fusions systems to develop
+transfer learning) aims at investigating modal fusion systems to develop
 end-to-end speech parsing models, i.e. systems that work directly
 on speech signal to perform parsing, instead of using only (potentially
 noisy) speech transcriptions as input.
 
-The two main bottlenecks in parsing speech are: (i) the scarcity
-of the available training data (ii) the difficulty in transcribing spontaneous
-speech. The internship will focus on (i) and explore data augmentation methods
-by leveraging both audio corpora without syntactic annotations
-and existing treebanks for written texts.
-
-Tasks:
-
-- literature review on speech parsing
-- designing and implementing data augmentation methods for speech parsing
-- empirical evaluation of proposed methods
+The internship will focus on either of the two following topics:
+- Designing data augmentation methods for parsing spontaneous spoken French
+- Multilingual evaluation of the wav2tree parser (Pupier et al 2022)
 
 Scientific environment:
 
@@ -41,16 +33,18 @@ work on extensions of this internship.
 
 Profile:
 
-- be enrolled in a Master (M2) in NLP, computational linguistics or computer science
+- be enrolled in a Masters program (M2) in NLP, computational linguistics or computer science
 - background in NLP and/or speech processing
-- proficiency in Python (transformers, pytorch)
-- Good communication skills in English, rudimentary knowledge of French 
- is also expected since the internship will focus on French data.
+- Python (transformers, pytorch)
+- Good communication skills in English. Rudimentary knowledge of French 
+is expected if the chosen topic is data augmentation for French.
 
 How to apply:
 
 - please send CV + cover letter + recent (last ~2 years) academic
-transcripts to maximin <dot> coavoux <at> univ-grenoble-alpes.fr
+transcripts to maximin.coavoux@univ-grenoble-alpes.fr
+- Informal inquiries are welcome!
+
 
 References:
 
