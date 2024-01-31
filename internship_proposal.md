@@ -31,6 +31,8 @@ and Benjamin Lecouteux.
 The SynPaX ANR project will also fund a PhD scholarship starting in Fall 2024 to
 work on extensions of this internship.
 
+internship salary: ~600 euros / month
+
 Profile:
 
 - be enrolled in a Masters program (M2) in NLP, computational linguistics or computer science
