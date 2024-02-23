@@ -29,16 +29,25 @@ Available positions:
 
 ## Publications
 
+
+2024:
+
+* Vlexique 2.0: A rich lexicon of French verbal inflection with form-level frequencies  
+  Sacha Beniamine, Maximin Coavoux, Olivier Bonami  
+  IMM 2024 [International Morphology Meeting](https://www.wu.ac.at/en/bizcomm/events/imm21/)
+  [[pdf]]() [[bib]]() [[data]](https://zenodo.org/records/10638682) [[data visualisation]](https://sbeniamine.gitlab.io/vlexique/)
+
+* LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
+  Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
+  Computer Speech & Language  
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0885230824000056/pdfft?md5=b58fb00a19081baee660307a25faf4ee&pid=1-s2.0-S0885230824000056-main.pdf) [[bib]](lebenchmark.bib) [[preprint]](https://arxiv.org/abs/2309.05472) [[models]](https://huggingface.co/LeBenchmark)
+
 2023:
 
 * Pretrained Language Models v. Court Ruling Predictions: A Case Study on a Small Dataset of French Court of Appeal Rulings.  
   Olivia Vaudaux, Caroline Bazzoli, Maximin Coavoux, Géraldine Vial, Étienne Vergès.  
   NLLP 2023  
   [[pdf]](https://aclanthology.org/2023.nllp-1.5.pdf) [[bib]](https://aclanthology.org/2023.nllp-1.5.bib)
-
-* LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
-  Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
-  [[preprint]](https://arxiv.org/abs/2309.05472)
 
 * Neural correlates of object-extracted relative clause processing across English and Chinese.  
   Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
