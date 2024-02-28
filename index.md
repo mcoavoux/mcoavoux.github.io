@@ -50,7 +50,7 @@ Available positions:
 * Vlexique 2.0: A rich lexicon of French verbal inflection with form-level frequencies  
   Sacha Beniamine, Maximin Coavoux, Olivier Bonami  
   IMM 2024 [International Morphology Meeting](https://www.wu.ac.at/en/bizcomm/events/imm21/)
-  [[pdf]]() [[bib]]() [[data]](https://zenodo.org/records/10638682) [[data visualisation]](https://sbeniamine.gitlab.io/vlexique/)
+  [[pdf]]() [[bib]]() [[data]](https://zenodo.org/records/10638682) [[data visualisation]](https://sbeniamine.gitlab.io/vlexique/) [[morphological tagger]](https://zenodo.org/records/10697867)
 
 * LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
   Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
