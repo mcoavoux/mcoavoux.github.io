@@ -35,17 +35,17 @@ Available positions:
 * What has LeBenchmark Learnt about French Syntax?  
   Zdravko Dugonjić, Adrien Pupier, Benjamin Lecouteux, Maximin Coavoux  
   LREC-COLING 2024  
-  [[pdf]]() [[bib]]()
+  [pdf] [bib] [preprint](https://arxiv.org/abs/2403.02173)
 
 * Limitations of Human Identification of Automatically Generated Text  
   Nadège Alavoine, Maximin Coavoux, Emmanuelle Esperança-Rodier, Romane Gallienne, Carlos Gonzalez Gallardo, Jérôme Goulian, Jose G. Moreno, Aurélie Névéol, Didier Schwab, Vincent Segonne, Johanna Simoens  
   LREC-COLING 2024  
-  [[pdf]]() [[bib]]()
+  [pdf] [bib]
 
 * Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains  
   Vincent Segonne, Aidan Mannion, Laura Alonzo-Canul, Alexandre Audibert, Xingyu Liu, Cécile Macaire, Adrien Pupier, Yongxin Zhou, Mathilde Aguiar, Felix Herron, Magali Norré, Massih-Reza Amini, Pierrette Bouillon, Iris Eshkol-Taravella, Emmanuelle Esperança-Rodier, Thomas François, Lorraine Goeuriot, Jérôme Goulian, Mathieu Lafourcade, Benjamin Lecouteux, François Portet, Fabien Ringeval, Vincent Vandeghinste, Maximin Coavoux, Marco Dinarelli and Didier Schwab  
   LREC-COLING 2024  
-  [[pdf]]() [[bib]]()
+  [pdf] [bib]
 
 * Vlexique 2.0: A rich lexicon of French verbal inflection with form-level frequencies  
   Sacha Beniamine, Maximin Coavoux, Olivier Bonami  
