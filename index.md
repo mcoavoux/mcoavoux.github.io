@@ -20,7 +20,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 Available positions:
 
 * [M2 internship on syntactic parsing of speech](internship_proposal.md)
-* PhD position (start: Fall 2024)
+* [PhD position (start: Fall 2024)](phd_proposal.md)
 
 ## PhD Supervision
 
