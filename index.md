@@ -20,6 +20,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 Available positions:
 
 * [M2 internship on syntactic parsing of speech](internship_proposal.md), 6 months, from February or March 2025
+* [PhD position (start: Fall 2024)](phd_proposal_ANR_COMPO.md), 3 years, Structural Biases for Compositional Semantic Prediction
 * [~~PhD position (start: Fall 2024)~~](phd_proposal.md)
 
 ## PhD Supervision
@@ -32,10 +33,15 @@ Available positions:
 
 2024:
 
+* Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech.  
+  Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux  
+  ACL 2024
+  [[preprint]](https://arxiv.org/abs/2406.12621) [bib] [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
+
 * What has LeBenchmark Learnt about French Syntax?  
   Zdravko Dugonjić, Adrien Pupier, Benjamin Lecouteux, Maximin Coavoux  
   LREC-COLING 2024  
-  [[pdf]](https://aclanthology.org/2024.lrec-main.1521.pdf) [[bib]](https://aclanthology.org/2024.lrec-main.1521.bib) [preprint](https://arxiv.org/abs/2403.02173)
+  [[pdf]](https://aclanthology.org/2024.lrec-main.1521.pdf) [[bib]](https://aclanthology.org/2024.lrec-main.1521.bib) [[preprint]](https://arxiv.org/abs/2403.02173)
 
 * Limitations of Human Identification of Automatically Generated Text  
   Nadège Alavoine, Maximin Coavoux, Emmanuelle Esperança-Rodier, Romane Gallienne, Carlos Gonzalez Gallardo, Jérôme Goulian, Jose G. Moreno, Aurélie Névéol, Didier Schwab, Vincent Segonne, Johanna Simoens  
@@ -50,7 +56,7 @@ Available positions:
 * Vlexique 2.0: A rich lexicon of French verbal inflection with form-level frequencies  
   Sacha Beniamine, Maximin Coavoux, Olivier Bonami  
   IMM 2024 [International Morphology Meeting](https://www.wu.ac.at/en/bizcomm/events/imm21/)
-  [[pdf]]() [[bib]]() [[data]](https://zenodo.org/records/10638682) [[data visualisation]](https://sbeniamine.gitlab.io/vlexique/) [[morphological tagger]](https://zenodo.org/records/10697867)
+  [pdf] [bib] [[data]](https://zenodo.org/records/10638682) [[data visualisation]](https://sbeniamine.gitlab.io/vlexique/) [[morphological tagger]](https://zenodo.org/records/10697867)
 
 * LeBenchmark 2.0: a Standardized, Replicable and Enhanced Framework for Self-supervised Representations of French Speech.  
   Titouan Parcollet, Ha Nguyen, Solène Evain, Marcely Zanon Boito, Adrien Pupier, Salima Mdhaffar, Hang Le, Sina Alisamir, Natalia Tomashenko, Marco Dinarelli, Shucong Zhang, Alexandre Allauzen, Maximin Coavoux, Yannick Esteve, Mickael Rouvier, Jérôme Goulian, Benjamin Lecouteux, Francois Portet, Solange Rossato, Fabien Ringeval, Didier Schwab, Laurent Besacier.  
