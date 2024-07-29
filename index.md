@@ -214,8 +214,10 @@ Thesis:
 
 ## Tools and data
 
-* [Bert based discontinuous parser](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021): a discontinuous parser for English and German, based on BERT and released with pretrained models.
-
+* Off-the shelf constituency parsers:
+    * [Bert based discontinuous parser](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021): a discontinuous parser for English and German, based on BERT and released with pretrained models.
+    * [mtgpy-fr](https://doi.org/10.5281/zenodo.13121535): a constituency parser for French, based on Flaubert and released with pretrained models.
 * [Discontinuous Constituency Treebanks for French](https://github.com/mcoavoux/french_disco_data)
 * [Wikipedia parsed to constituency trees](https://github.com/mcoavoux/wiki_parse)
-* [Mind the gap](https://github.com/mcoavoux/mtg): discontinuous (and projective) constituency parser, released with pretrained models.
+* see also [zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Coavoux%2C%20Maximin%22&l=list&p=1&s=10&sort=bestmatch)
+
