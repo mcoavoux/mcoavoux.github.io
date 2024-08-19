@@ -36,7 +36,7 @@ Available positions:
 * Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech.  
   Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux  
   ACL 2024  
-  [[preprint]](https://arxiv.org/abs/2406.12621) [bib] [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
+  [[pdf]](https://aclanthology.org/2024.acl-short.22.pdf) [[bib]](https://aclanthology.org/2024.acl-short.22.bib) [[preprint]](https://arxiv.org/abs/2406.12621) [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
 
 * What has LeBenchmark Learnt about French Syntax?  
   Zdravko Dugonjić, Adrien Pupier, Benjamin Lecouteux, Maximin Coavoux  
