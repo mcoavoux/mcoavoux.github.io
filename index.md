@@ -35,7 +35,7 @@ Available positions:
 
 * Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
-    Findings of EMNLP 2024
+    Findings of EMNLP 2024  
     [pdf] [bib]
 
 * Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech.  
@@ -46,10 +46,12 @@ Available positions:
 
 * Méta-apprentissage pour l’analyse AMR translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab  
+  TALN 2024  
   [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.10.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.10.bib)
 
 * Une approche par graphe pour l’analyse syntaxique en dépendances de bout en bout de la parole.  
   Adrien Pupier, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian  
+  TALN 2024  
   [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.16.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.16.bib)
 
 * What has LeBenchmark Learnt about French Syntax?  
