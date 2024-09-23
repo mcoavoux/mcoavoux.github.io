@@ -44,12 +44,12 @@ Available positions:
   [[pdf]](https://aclanthology.org/2024.acl-short.22.pdf) [[bib]](https://aclanthology.org/2024.acl-short.22.bib) [[preprint]](https://arxiv.org/abs/2406.12621) [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
 
 
-* Méta-apprentissage pour l’analyse AMR translingue.  
+* (in French) Méta-apprentissage pour l’analyse AMR translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab  
   TALN 2024  
   [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.10.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.10.bib)
 
-* Une approche par graphe pour l’analyse syntaxique en dépendances de bout en bout de la parole.  
+* (in French) Une approche par graphe pour l’analyse syntaxique en dépendances de bout en bout de la parole.  
   Adrien Pupier, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian  
   TALN 2024  
   [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.16.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.16.bib)
