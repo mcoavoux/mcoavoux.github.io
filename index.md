@@ -36,7 +36,7 @@ Available positions:
 * Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Findings of EMNLP 2024  
-    [pdf] [bib] [[preprint]](https://arxiv.org/abs/2410.03357) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099) [[git]](https://github.com/Emvista/Meta-XAMR-2024/tree/main)
+    [[pdf]](https://aclanthology.org/2024.findings-emnlp.3.pdf) [[bib]](https://aclanthology.org/2024.findings-emnlp.3.bib) [[preprint]](https://arxiv.org/abs/2410.03357) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099) [[git]](https://github.com/Emvista/Meta-XAMR-2024/tree/main)
 
 * Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech.  
   Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux  
