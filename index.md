@@ -19,12 +19,13 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 Available positions:
 
-* [M2 internship on syntactic parsing of speech](internship_proposal.md), 6 months, from February or March 2025
+* [~~M2 internship on syntactic parsing of speech~~](internship_proposal.md), 6 months, from February or March 2025
 * [~~PhD position (start: Fall 2024)~~](phd_proposal_ANR_COMPO.md), 3 years, Structural Biases for Compositional Semantic Prediction
 * [~~PhD position (start: Fall 2024)~~](phd_proposal.md)
 
 ## PhD Supervision
 
+- Maelig Hurte: 2024-, Structural biases for compositional generalization, co-supervised with Éric Gaussier
 - Jeongwoo Kang: 2021-, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
 - Adrien Pupier: 2021-, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
 
