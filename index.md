@@ -3,11 +3,10 @@ title: Maximin Coavoux
 ---
 
 I am a CNRS researcher working in [Getalp](http://lig-getalp.imag.fr/en/home/) team (part of [Laboratoire d'Informatique de Grenoble](http://www.liglab.fr/)).
-Before that, I was a research scientist at [Naver Labs Europe ](https://europe.naverlabs.com/) (2019) and a research associate at the University of Edinburgh (2018) in [Shay Cohen's research group](https://bollin.inf.ed.ac.uk/).
-I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université Paris Cité](https://u-paris.fr/).
-Specifically, I worked in the [Laboratoire de Linguistique Formelle (LLF)](http://www.llf.cnrs.fr/en), under the supervision of Benoît Crabbé and on the topic of natural language parsing.
+Before that, I was a research scientist at [Naver Labs Europe ](https://europe.naverlabs.com/) (2019) and a research associate at the University of Edinburgh (2018) 
+I obtained my PhD in 2017 at Paris Diderot University, which is now part of [Université Paris Cité](https://u-paris.fr/). 
 
-My research focuses on natural language and speech processing. Some of my current research interests: syntactic/semantic parsing, structured prediction, end-to-end speech parsing, multitask learning.
+My research focuses on natural language and speech processing. Some of my current research interests: syntactic/semantic parsing and annotation, speech processing, end-to-end speech parsing, multitask learning.
 
 Contact: `first.last@univ-grenoble-alpes.fr`
 
@@ -25,11 +24,27 @@ Available positions:
 
 ## PhD Supervision
 
+- Minnie Kabra: 2025-, Cross-modal methods for parsing speech, co-supervised with Benjamin Lecouteux
+- Rayan Ziane: 2024-, Syntactic annotations for speech from low-ressource languages, co-supervised with Emmanuel Schang and Benjamin Lecouteux
 - Maelig Hurte: 2024-, Structural biases for compositional generalization, co-supervised with Éric Gaussier
 - Jeongwoo Kang: 2021-, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
 - Adrien Pupier: 2021-, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
 
 ## Publications
+
+2025:
+
+* Reassessing Graph Linearization for Sequence-to-sequence AMR Parsing: On the Advantages and Limitations of Triple-Based Encoding.  
+    Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
+    Workshop on Insights from Negative Results in NLP 2025  
+
+* (in French) Le traitement automatique des langues naturelles comme outil de prédiction des jugements . - Un pas à franchir entre le rêve et la réalité.  
+    Etienne Vergès, Maximin Coavoux, Olivia Vaudaux, Caroline Bazzoli, Géraldine Vial  
+    La Semaine juridique. Édition générale, 2025.
+
+* (in French) Intelligence artificielle contre intelligence humaine - Comment l'esprit humain prédit les décisions des juges.  
+    Caroline Bazzoli, Maximin Coavoux, Olivia Vaudaux, Etienne Vergès, Géraldine Vial.  
+    La Semaine juridique. Édition générale, 2025.
 
 
 2024:
