@@ -27,8 +27,11 @@ Available positions:
 - Minnie Kabra: 2025-, Cross-modal methods for parsing speech, co-supervised with Benjamin Lecouteux
 - Rayan Ziane: 2024-, Syntactic annotations for speech from low-ressource languages, co-supervised with Emmanuel Schang and Benjamin Lecouteux
 - Maelig Hurte: 2024-, Structural biases for compositional generalization, co-supervised with Éric Gaussier
-- Jeongwoo Kang: 2021-, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
-- Adrien Pupier: 2021-, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
+
+### Graduated 
+
+- Jeongwoo Kang: 2021-2025, Cross-lingual AMR Parsing, co-supervised with Didier Schwab and Cédric Lopez
+- Adrien Pupier: 2021-2025, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
 
 ## Publications
 
