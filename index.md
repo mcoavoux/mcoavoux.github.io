@@ -37,6 +37,16 @@ Available positions:
 
 2025:
 
+* `ding-01 :ARG0`: An AMR Corpus for Spontaneous French Dialogue  
+    Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
+    IWCS 2025
+    [[pdf]] [[bib]] [[corpus]](https://doi.org/10.5281/zenodo.16638515)
+
+* (in French) `ding-01 :ARG0` Un corpus AMR pour le français parlé spontané  
+    Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
+    CORIA-TALN 2025  
+    [[pdf]] [[bib]] [[corpus]](https://doi.org/10.5281/zenodo.16638515)
+
 * Reassessing Graph Linearization for Sequence-to-sequence AMR Parsing: On the Advantages and Limitations of Triple-Based Encoding.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Workshop on Insights from Negative Results in NLP 2025  
