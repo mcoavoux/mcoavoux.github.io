@@ -39,17 +39,18 @@ Available positions:
 
 * `ding-01 :ARG0`: An AMR Corpus for Spontaneous French Dialogue  
     Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
-    IWCS 2025
-    [[pdf]] [[bib]] [[corpus]](https://doi.org/10.5281/zenodo.16638515)
+    IWCS 2025  
+    [[pdf]] [[bib]] [[preprint]](https://arxiv.org/abs/2508.12819) [[corpus]](https://doi.org/10.5281/zenodo.16638515) [[query the corpus]](https://semantics.grew.fr/?corpus=ding-01)
 
 * (in French) `ding-01 :ARG0` Un corpus AMR pour le français parlé spontané  
     Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
     CORIA-TALN 2025  
-    [[pdf]] [[bib]] [[corpus]](https://doi.org/10.5281/zenodo.16638515)
+    [[pdf]](https://talnarchives.atala.org/TALN/TALN-2025/48.pdf) [[bib]](https://talnarchives.atala.org/TALN/TALN-2025/48.bib) [[corpus]](https://doi.org/10.5281/zenodo.16638515)
 
 * Reassessing Graph Linearization for Sequence-to-sequence AMR Parsing: On the Advantages and Limitations of Triple-Based Encoding.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Workshop on Insights from Negative Results in NLP 2025  
+    [[aclanthology]](https://aclanthology.org/2025.insights-1.3)
 
 * (in French) Le traitement automatique des langues naturelles comme outil de prédiction des jugements . - Un pas à franchir entre le rêve et la réalité.  
     Etienne Vergès, Maximin Coavoux, Olivia Vaudaux, Caroline Bazzoli, Géraldine Vial  
