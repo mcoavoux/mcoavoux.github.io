@@ -50,7 +50,7 @@ Available positions:
 * Reassessing Graph Linearization for Sequence-to-sequence AMR Parsing: On the Advantages and Limitations of Triple-Based Encoding.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Workshop on Insights from Negative Results in NLP 2025  
-    [[aclanthology]](https://aclanthology.org/2025.insights-1.3)
+    [[aclanthology]](https://aclanthology.org/2025.insights-1.3) [[Jeongwoo's code]](https://github.com/Emvista/Triple_AMR_Parser)
 
 * (in French) Le traitement automatique des langues naturelles comme outil de prédiction des jugements . - Un pas à franchir entre le rêve et la réalité.  
     Etienne Vergès, Maximin Coavoux, Olivia Vaudaux, Caroline Bazzoli, Géraldine Vial  
