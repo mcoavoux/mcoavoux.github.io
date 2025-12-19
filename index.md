@@ -42,17 +42,17 @@ Available positions:
 * `ding-01 :ARG0`: An AMR Corpus for Spontaneous French Dialogue  
     Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
     IWCS 2025  
-    [[pdf]] [[bib]] [[preprint]](https://arxiv.org/abs/2508.12819) [[corpus]](https://doi.org/10.5281/zenodo.16638515) [[query the corpus]](https://semantics.grew.fr/?corpus=ding-01)
+    [[aclanthology]](https://aclanthology.org/2025.iwcs-main.3/) [[preprint]](https://arxiv.org/abs/2508.12819) [[corpus]](https://doi.org/10.5281/zenodo.16638515) [[query the corpus]](https://semantics.grew.fr/?corpus=ding-01)
 
 * (in French) `ding-01 :ARG0` Un corpus AMR pour le français parlé spontané  
     Jeongwoo Kang, Maria Boritchev, Maximin Coavoux.  
     CORIA-TALN 2025  
-    [[pdf]](https://talnarchives.atala.org/TALN/TALN-2025/48.pdf) [[bib]](https://talnarchives.atala.org/TALN/TALN-2025/48.bib) [[corpus]](https://doi.org/10.5281/zenodo.16638515)
+    [[aclanthology]](https://aclanthology.org/2025.jeptalnrecital-taln.48/) [[corpus]](https://doi.org/10.5281/zenodo.16638515)
 
 * Reassessing Graph Linearization for Sequence-to-sequence AMR Parsing: On the Advantages and Limitations of Triple-Based Encoding.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Workshop on Insights from Negative Results in NLP 2025  
-    [[aclanthology]](https://aclanthology.org/2025.insights-1.3)
+    [[aclanthology]](https://aclanthology.org/2025.insights-1.3) [[Jeongwoo's code]](https://github.com/Emvista/Triple_AMR_Parser)
 
 * (in French) Le traitement automatique des langues naturelles comme outil de prédiction des jugements . - Un pas à franchir entre le rêve et la réalité.  
     Etienne Vergès, Maximin Coavoux, Olivia Vaudaux, Caroline Bazzoli, Géraldine Vial  
@@ -68,38 +68,38 @@ Available positions:
 * Should Cross-Lingual AMR Parsing go Meta? An Empirical Assessment of Meta-Learning and Joint Learning AMR Parsing.  
     Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
     Findings of EMNLP 2024  
-    [[pdf]](https://aclanthology.org/2024.findings-emnlp.3.pdf) [[bib]](https://aclanthology.org/2024.findings-emnlp.3.bib) [[preprint]](https://arxiv.org/abs/2410.03357) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099) [[git]](https://github.com/Emvista/Meta-XAMR-2024/tree/main)
+    [[aclanthology]](https://aclanthology.org/2024.findings-emnlp.3) [[preprint]](https://arxiv.org/abs/2410.03357) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099) [[git]](https://github.com/Emvista/Meta-XAMR-2024/tree/main)
 
 * Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech.  
   Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux  
   ACL 2024  
-  [[pdf]](https://aclanthology.org/2024.acl-short.22.pdf) [[bib]](https://aclanthology.org/2024.acl-short.22.bib) [[preprint]](https://arxiv.org/abs/2406.12621) [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
+  [[aclanthology]](https://aclanthology.org/2024.acl-short.22) [[preprint]](https://arxiv.org/abs/2406.12621) [[Adrien's code]](https://doi.org/10.5281/zenodo.11474162)
 
 
 * (in French) Méta-apprentissage pour l’analyse AMR translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab  
   TALN 2024  
-  [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.10.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.10.bib) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099)
+  [[aclanthology]](https://aclanthology.org/2024.jeptalnrecital-taln.10) [[Jeongwoo's code and data]](https://doi.org/10.5281/zenodo.11658099)
 
 * (in French) Une approche par graphe pour l’analyse syntaxique en dépendances de bout en bout de la parole.  
   Adrien Pupier, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian  
   TALN 2024  
-  [[pdf]](https://aclanthology.org/2024.jeptalnrecital-taln.16.pdf) [[bib]](https://aclanthology.org/2024.jeptalnrecital-taln.16.bib)
+  [[aclanthology]](https://aclanthology.org/2024.jeptalnrecital-taln.16)
 
 * What has LeBenchmark Learnt about French Syntax?  
   Zdravko Dugonjić, Adrien Pupier, Benjamin Lecouteux, Maximin Coavoux  
   LREC-COLING 2024  
-  [[pdf]](https://aclanthology.org/2024.lrec-main.1521.pdf) [[bib]](https://aclanthology.org/2024.lrec-main.1521.bib) [[preprint]](https://arxiv.org/abs/2403.02173)
+  [[aclanthology]](https://aclanthology.org/2024.lrec-main.1521) [[preprint]](https://arxiv.org/abs/2403.02173)
 
 * Limitations of Human Identification of Automatically Generated Text  
   Nadège Alavoine, Maximin Coavoux, Emmanuelle Esperança-Rodier, Romane Gallienne, Carlos Gonzalez Gallardo, Jérôme Goulian, Jose G. Moreno, Aurélie Névéol, Didier Schwab, Vincent Segonne, Johanna Simoens  
   LREC-COLING 2024  
-  [[pdf]](https://aclanthology.org/2024.lrec-main.919.pdf) [[bib]](https://aclanthology.org/2024.lrec-main.919.bib)
+  [[aclanthology]](https://aclanthology.org/2024.lrec-main.919)
 
 * Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains  
   Vincent Segonne, Aidan Mannion, Laura Alonzo-Canul, Alexandre Audibert, Xingyu Liu, Cécile Macaire, Adrien Pupier, Yongxin Zhou, Mathilde Aguiar, Felix Herron, Magali Norré, Massih-Reza Amini, Pierrette Bouillon, Iris Eshkol-Taravella, Emmanuelle Esperança-Rodier, Thomas François, Lorraine Goeuriot, Jérôme Goulian, Mathieu Lafourcade, Benjamin Lecouteux, François Portet, Fabien Ringeval, Vincent Vandeghinste, Maximin Coavoux, Marco Dinarelli and Didier Schwab  
   LREC-COLING 2024  
-  [[pdf]](https://aclanthology.org/2024.lrec-main.827.pdf) [[bib]](https://aclanthology.org/2024.lrec-main.827.bib)
+  [[aclanthology]](https://aclanthology.org/2024.lrec-main.827)
 
 * Vlexique 2.0: A rich lexicon of French verbal inflection with form-level frequencies  
   Sacha Beniamine, Maximin Coavoux, Olivier Bonami  
@@ -116,7 +116,7 @@ Available positions:
 * Pretrained Language Models v. Court Ruling Predictions: A Case Study on a Small Dataset of French Court of Appeal Rulings.  
   Olivia Vaudaux, Caroline Bazzoli, Maximin Coavoux, Géraldine Vial, Étienne Vergès.  
   NLLP 2023  
-  [[pdf]](https://aclanthology.org/2023.nllp-1.5.pdf) [[bib]](https://aclanthology.org/2023.nllp-1.5.bib)
+  [[aclanthology]](https://aclanthology.org/2023.nllp-1.5)
 
 * Neural correlates of object-extracted relative clause processing across English and Chinese.  
   Donald Dunagan, Miloš Stanojević, Maximin Coavoux, Shulin Zhang, Shohini Bhattasali, Jixing Li, Jonathan Brennan, John Hale.  
@@ -126,7 +126,7 @@ Available positions:
 * (In French) Analyse sémantique AMR pour le français par transfert translingue.  
   Jeongwoo Kang, Maximin Coavoux, Cédric Lopez, Didier Schwab.  
   TALN 2023.  
-  [[pdf]](https://aclanthology.org/2023.jeptalnrecital-short.6.pdf) [[bib]](https://aclanthology.org/2023.jeptalnrecital-short.6.bib) [[Jeongwoo's code]](https://github.com/Emvista/French-Amr-Parser)
+  [[aclanthology]](https://aclanthology.org/2023.jeptalnrecital-short.6) [[Jeongwoo's code]](https://github.com/Emvista/French-Amr-Parser)
 
 * On Detecting Policy-Related Political Ads: An Exploratory Analysis of Meta Ads in 2022 French Election.  
    Vera Sosnovik, Romaissa Kessi, Maximin Coavoux, Oana Goga.  
@@ -136,7 +136,7 @@ Available positions:
 * BERT Is Not The Count: Learning to Match Mathematical Statements with Proofs.  
    Weixian Li, Yftah Ziser, Maximin Coavoux and Shay B. Cohen.  
    EACL 2023.  
-   [[pdf]](https://aclanthology.org/2023.eacl-main.260.pdf) [[bib]](https://aclanthology.org/2023.eacl-main.260.bib) [[preprint]](https://arxiv.org/abs/2302.09350) [[old preprint version]](https://arxiv.org/abs/2102.02110) 
+   [[aclanthology]](https://aclanthology.org/2023.eacl-main.260) [[preprint]](https://arxiv.org/abs/2302.09350) [[old preprint version]](https://arxiv.org/abs/2102.02110) 
 
 2022:
 
@@ -161,17 +161,17 @@ Available positions:
 * BERT-Proof Syntactic Structures: Investigating Errors in Discontinuous Constituency Parsing.  
   Maximin Coavoux.  
   Findings of ACL 2021.  
-  [[pdf]](https://aclanthology.org/2021.findings-acl.288.pdf) [[bib]](https://aclanthology.org/2021.findings-acl.288.bib) [[test suite]](https://aclanthology.org/attachments/2021.findings-acl.288.OptionalSupplementaryMaterial.zip) [[parser's code]](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021)
+  [[aclanthology]](https://aclanthology.org/2021.findings-acl.288) [[test suite]](https://aclanthology.org/attachments/2021.findings-acl.288.OptionalSupplementaryMaterial.zip) [[parser's code]](https://gitlab.com/mcoavoux/mtgpy-release-findings-2021)
 
 * (In French) Contribution d'informations syntaxiques aux capacités de généralisation compositionelle des modèles seq2seq convolutifs.  
   Diana Nicoleta Popa, William N. Havard, Maximin Coavoux, Eric Gaussier and Laurent Besacier.  
   TALN 2021 (short).  
-  [[pdf]](http://talnarchives.atala.org/TALN/TALN-2021/28.pdf) [[bib]](http://talnarchives.atala.org/TALN/TALN-2021/28.bib)
+  [[aclanthology]](https://aclanthology.org/2021.jeptalnrecital-taln.12/)
 
 * Self-Supervised and Controlled Multi-Document Opinion Summarization.  
   Hady Elsahar, Maximin Coavoux, Matthias Gallé, Jos Rozen.  
   EACL 2021 (long).  
-  [[pdf]](https://www.aclweb.org/anthology/2021.eacl-main.141.pdf) [[bib]](https://www.aclweb.org/anthology/2021.eacl-main.141.bib) [[preprint]](https://arxiv.org/abs/2004.14754)
+  [[aclanthology]](https://www.aclweb.org/anthology/2021.eacl-main.141) [[preprint]](https://arxiv.org/abs/2004.14754)
 
 
 2020:
@@ -179,78 +179,78 @@ Available positions:
 * (In French) FlauBERT : des modèles de langue contextualisés pré-entraînés pour le français.  
   Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoît Crabbé, Laurent Besacier, Didier Schwab.  
   TALN 2020 (short).  
-  [[pdf]](https://hal.archives-ouvertes.fr/hal-02784776v3/document) [[bib]](http://talnarchives.atala.org/TALN/TALN-2020/66.bib)
+  [[aclanthology]](https://aclanthology.org/2020.jeptalnrecital-taln.26/)
 
 * (In French) Qu’apporte BERT à l’analyse syntaxique en constituants discontinus ? Une suite de tests pour évaluer les prédictions de structures syntaxiques discontinues en anglais.  
   Maximin Coavoux  
   TALN 2020 (short).  
-  [[pdf]](https://hal.archives-ouvertes.fr/hal-02784767v3/document) [[bib]](http://talnarchives.atala.org/TALN/TALN-2020/141.bib)
+  [[aclanthology]](https://aclanthology.org/2020.jeptalnrecital-taln.17/)
 
 * FlauBERT: Unsupervised Language Model Pre-training for French.  
   Hang Le, Loïc Vial, Jibril Frej, Vincent Segonne, Maximin Coavoux, Benjamin Lecouteux, Alexandre Allauzen, Benoît Crabbé, Laurent Besacier, Didier Schwab.  
   LREC 2020.  
-  [[pdf]](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.302.pdf)[[bib]](http://www.lrec-conf.org/proceedings/lrec2020/bib/2020.lrec-1.302.bib) [[pre-print]](https://arxiv.org/abs/1912.05372) [[code for FlauBERT]](https://github.com/getalp/Flaubert/) [[code for constituency parsing experiments]](https://github.com/mcoavoux/self-attentive-parser)
+  [[aclanthology]](https://aclanthology.org/2020.lrec-1.302/) [[pre-print]](https://arxiv.org/abs/1912.05372) [[code for FlauBERT]](https://github.com/getalp/Flaubert/) [[code for constituency parsing experiments]](https://github.com/mcoavoux/self-attentive-parser)
 
 2019:
 
 * Unsupervised Aspect-Based Multi-Document Abstractive Summarization.  
   Maximin Coavoux, Hady Elsahar, Matthias Gallé.  
   NewSum 2019 workshop (short).  
-  [[pdf]](https://www.aclweb.org/anthology/D19-5405.pdf) [[bib]](https://www.aclweb.org/anthology/D19-5405.bib)
+  [[aclanthology]](https://www.aclweb.org/anthology/D19-5405)
 
 * Discontinuous Constituency Parsing with a Stack-free Transition System and a Dynamic Oracle.  
   Maximin Coavoux, Shay B. Cohen.  
   NAACL 2019 (long).  
-  [[pdf]](https://www.aclweb.org/anthology/N19-1018.pdf) [[bib]](https://www.aclweb.org/anthology/N19-1018.bib) [[code]](https://gitlab.com/mcoavoux/discoparset/) [[slides]](slides_naacl2019.pdf)
+  [[aclanthology]](https://www.aclweb.org/anthology/N19-1018) [[code]](https://gitlab.com/mcoavoux/discoparset/) [[slides]](slides_naacl2019.pdf)
 
 * Unlexicalized Transition-based Discontinuous Constituency Parsing.  
   Maximin Coavoux, Benoît Crabbé, Shay B. Cohen.  
   TACL 2019.  
-  [[pdf]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00255) [[html]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00255) [[bib]](https://www.aclweb.org/anthology/Q19-1005.bib) [[code]](https://github.com/mcoavoux/mtg_TACL)
+  [[aclanthology]](https://aclanthology.org/Q19-1005/) [[html]](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00255) [[code]](https://github.com/mcoavoux/mtg_TACL)
 
 2018:
 
 * Privacy-preserving Neural Representation of Text.  
   Maximin Coavoux, Shashi Narayan, Shay B. Cohen.  
   EMNLP 2018 (long).  
-  [[pdf]](http://aclweb.org/anthology/D18-1001) [[bib]](https://www.aclweb.org/anthology/D18-1001.bib) [[code]](https://github.com/mcoavoux/pnet)
+  [[aclanthology]](http://aclweb.org/anthology/D18-1001) [[code]](https://github.com/mcoavoux/pnet)
 
 2017:
 
 * Multilingual Lexicalized Constituency Parsing with Word-Level Auxiliary Tasks.  
   Maximin Coavoux, Benoît Crabbé.  
   EACL 2017 (short).  
-  [[pdf]](http://www.aclweb.org/anthology/E/E17/E17-2053.pdf) [[bib]](http://www.aclweb.org/anthology/E/E17/E17-2053.bib) [[code]](https://github.com/mcoavoux/mtg/)
+  [[aclanthology]](http://www.aclweb.org/anthology/E/E17/E17-2053) [[code]](https://github.com/mcoavoux/mtg/)
 * Incremental Discontinuous Phrase Structure Parsing with the GAP Transition.  
   Maximin Coavoux, Benoît Crabbé.  
   EACL 2017 (long). Outstanding paper award.  
-  [[pdf]](http://www.aclweb.org/anthology/E/E17/E17-1118.pdf) [[bib]](http://www.aclweb.org/anthology/E/E17/E17-1118.bib) [[code]](https://github.com/mcoavoux/mtg/) [[slides]](slides_eacl2017.pdf)
+  [[aclanthology]](http://www.aclweb.org/anthology/E/E17/E17-1118) [[code]](https://github.com/mcoavoux/mtg/) [[slides]](slides_eacl2017.pdf)
 * (In French) Représentation et analyse automatique des discontinuités syntaxiques dans les corpus arborés en constituants du français.  
   Maximin Coavoux, Benoît Crabbé.  
   TALN 2017 (long).  
-  [[pdf]](https://hal.archives-ouvertes.fr/hal-01622631/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01622631v1/bibtex) [[code]](https://github.com/mcoavoux/french_disco_data) [[slides]](slides_taln2017.pdf)
+  [[aclanthology]](https://aclanthology.org/2017.jeptalnrecital-long.6/) [[code]](https://github.com/mcoavoux/french_disco_data) [[slides]](slides_taln2017.pdf)
 * Cross-lingual RST Discourse Parsing.  
   Chloé Braud, Maximin Coavoux, Anders Søgaard.  
   EACL 2017 (long).  
-  [[pdf]](http://www.aclweb.org/anthology/E17-1028) [[bib]](http://aclweb.org/anthology/E17-1028.bib)
+  [[aclanthology]](http://www.aclweb.org/anthology/E17-1028)
 
 2016:
 
 * (In French) Prédiction structurée pour l’analyse syntaxique en constituants par transitions : modèles denses et modèles creux.  
   Maximin Coavoux, Benoît Crabbé.  
   Traitement Automatique des Langues, ATALA, 2016, 57 (1).  
-  [[pdf]](https://hal.archives-ouvertes.fr/hal-01365252/document) [[bib]](https://hal.archives-ouvertes.fr/hal-01365252v1/bibtex)
+  [[aclanthology]](https://aclanthology.org/2016.tal-1.3/)
 * Neural greedy constituent parsing with dynamic oracles.  
   Maximin Coavoux, Benoît Crabbé.  
   ACL 2016 (long).  
-  [[pdf]](https://www.aclweb.org/anthology/P16-1017.pdf) [[bib]](https://www.aclweb.org/anthology/P16-1017.bib) [[code]](https://github.com/mcoavoux/hyparse) [[slides]](slides_acl2016.pdf)
+  [[aclanthology]](https://www.aclweb.org/anthology/P16-1017) [[code]](https://github.com/mcoavoux/hyparse) [[slides]](slides_acl2016.pdf)
 
 2015:
 
 * (In French) Comparaison d’architectures neuronales pour l’analyse syntaxique en constituants.  
   Maximin Coavoux, Benoît Crabbé.  
   TALN 2015 (long).  Best paper award.  
-  [[pdf]](http://www.llf.cnrs.fr/sites/llf.cnrs.fr/files/biblio/taln-2015-long-025.pdf) [[bib]](https://hal.inria.fr/hal-01174613v1/bibtex)
+  [[aclanthology]](https://aclanthology.org/2015.jeptalnrecital-long.25/)
 
 Thesis:
 
