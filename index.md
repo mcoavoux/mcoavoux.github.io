@@ -18,6 +18,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 Available positions:
 
+* [Post-doc in NLP/speech processing](post_doc.md)
 * [Post-doc in NLP for Law](https://emploi.univ-grenoble-alpes.fr/offres/doctorants-chercheurs/chercheur-post-doctoral-en-data-science-f-h--1685124.kjsp), 2 years
 
 * [~~M2 internship on syntactic parsing of speech~~](internship_proposal.md), 6 months, from February or March 2025
