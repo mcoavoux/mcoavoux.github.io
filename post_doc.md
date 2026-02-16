@@ -1,7 +1,10 @@
+post-doc traitement des langues et de la parole
+===============================================
 
 infos importantes:
 
 - début: flexible à partir de mai/juin 2026
+- durée: 16 mois
 - rémunération: à partir de 3041 euros bruts
 - lieu: LIG (bâtiment IMAG), Grenoble
 - contact: maximin.coavoux@univ-grenoble-alpes.fr (toute question bienvenue!)
