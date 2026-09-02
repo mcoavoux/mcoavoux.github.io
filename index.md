@@ -18,7 +18,7 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 
 Available positions:
 
-* [Post-doc in NLP/speech processing](post_doc.md)
+* [~~Post-doc in NLP/speech processing~~](post_doc.md)
 
 * [~~Post-doc in NLP for Law~~](https://emploi.univ-grenoble-alpes.fr/offres/doctorants-chercheurs/chercheur-post-doctoral-en-data-science-f-h--1685124.kjsp), 2 years
 * [~~M2 internship on syntactic parsing of speech~~](internship_proposal.md), 6 months, from February or March 2025
@@ -37,6 +37,30 @@ Available positions:
 - Adrien Pupier: 2021-2025, End-to-end Dependency Parsing of Spoken French, co-supervised with Benjamin Lecouteux and Jérôme Goulian
 
 ## Publications
+
+
+2026:
+
+* When Can You Prune Your Network? A Study of Intermediate Neurons in Multilingual Speech Parsing  
+    Minnie Kabra, Benjamin Lecouteux, Maximin Coavoux  
+    Findings of EMNLP 2026  
+
+* (In French) Apprentissage actif pour l'annotation morphosyntaxique du créole haïtien  
+    Rayan Ziane, Maximin Coavoux, Benjamin Lecouteux, Emmanuel Schang  
+    TALN 2026  
+    [[talnarchives]](https://talnarchives.atala.org/TALN/TALN-2026/27.pdf)
+
+* Pantagruel: Unified Self-Supervised Encoders for French Text and Speech  
+    Phuong-Hang Le, Valentin Pelloin, Arnault Chatelain, Maryem Bouziane, Mohammed Ghennai, Qianwen Guan, Kirill Milintsevich, Salima Mdhaffar, Aidan Mannion, Nils Defauw, Shuyue Gu, Alexandre Daniel Audibert, Marco Dinarelli, Yannick Estève, Lorraine Goeuriot, Steffen Lalande, Nicolas Hervé, Maximin Coavoux, François Portet, Étienne Ollion, Marie Candito, Maxime Peyrard, Solange Rossato, Benjamin Lecouteux, Aurélie Nardy, Gilles Sérasset, Vincent Segonne, Solène Evain, Diandra Fabre, Didier Schwab  
+    LREC 2026  
+    [[aclanthology]](https://aclanthology.org/2026.lrec-1.799/) [[models]](https://huggingface.co/PantagrueLLM)
+
+* Radio Haiti-Inter: A Large-Scale Annotated Corpus of Spoken Haitian Creole  
+    William N. Havard, Rayan Ziane, Mélissa Menclé, Maximin Coavoux, Benjamin Lecouteux, Emmanuel Schang  
+    LREC 2026  
+    [[aclanthology]](https://aclanthology.org/2026.lrec-1.241/) [[corpus]](https://zenodo.org/records/17818122)
+
+
 
 2025:
 
@@ -62,6 +86,12 @@ Available positions:
 * (in French) Intelligence artificielle contre intelligence humaine - Comment l'esprit humain prédit les décisions des juges.  
     Caroline Bazzoli, Maximin Coavoux, Olivia Vaudaux, Etienne Vergès, Géraldine Vial.  
     La Semaine juridique. Édition générale, 2025.
+
+* (in French) L’exploration d’un corpus outillé pour l’étude de la phraséologie du roman médiéval : approche méthodologique et étude de cas du ou coordonnant  
+    Julie Sorba, Olivier Kraif, Corinne Denoyelle, Maximin Coavoux
+    Le français au rythme des diachronies, 2025
+    [[hal]](https://hal.science/hal-05338660v1)
+
 
 
 2024:
