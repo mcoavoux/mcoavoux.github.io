@@ -14,8 +14,6 @@ Contact: `first.last@univ-grenoble-alpes.fr`
 [**Publications**](#publications)  
 [**Tools and data**](#tools-and-data)  
 
-**News** July 2023: I have been awarded an ANR grant to work on syntactic parsing of spoken French.
-
 Available positions:
 
 * [~~Post-doc in NLP/speech processing~~](post_doc.md)
