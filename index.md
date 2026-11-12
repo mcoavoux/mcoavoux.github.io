@@ -42,6 +42,7 @@ Available positions:
 * When Can You Prune Your Network? A Study of Intermediate Neurons in Multilingual Speech Parsing  
     Minnie Kabra, Benjamin Lecouteux, Maximin Coavoux  
     Findings of EMNLP 2026  
+    [[https://aclanthology.org/2026.findings-emnlp.2132/]](https://aclanthology.org/2026.findings-emnlp.2132/)
 
 * (In French) Apprentissage actif pour l'annotation morphosyntaxique du créole haïtien  
     Rayan Ziane, Maximin Coavoux, Benjamin Lecouteux, Emmanuel Schang  
